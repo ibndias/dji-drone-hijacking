@@ -1,6 +1,8 @@
 # DJI Drone Hijacking PoC 
 
-This is a repository for proof of concept of DJI Mini SE Hijacking.
+This is a repository for proof of concept of DJI Mini SE Hijacking explained in our paper:
+
+[Behind The Wings: The Case of Reverse Engineering and Drone Hijacking in DJI Enhanced Wi-Fi Protocol](https://arxiv.org/abs/2309.05913)
 
 ## Getting Started
 
